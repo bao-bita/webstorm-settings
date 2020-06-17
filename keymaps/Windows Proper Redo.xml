@@ -1,0 +1,6 @@
+<keymap version="1" name="Windows Proper Redo" parent="$default">
+  <action id="AddToFavoritesPopup" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+</keymap>
